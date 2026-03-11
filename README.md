@@ -5,6 +5,9 @@ find abnormaly game
 - you have a 5 live
 - press e to detected abnormal
 
+https://github.com/user-attachments/assets/35cc4e60-bd54-4440-ac51-3c66fa4f9c68
+
+
 
 model ref:
 player: https://www.cgtrader.com/items/1923175/download-page
